@@ -3,7 +3,7 @@ Oswaldo Gressani
 
 <!-- Background image -->
 
-![My background image](Github_background.jpg)
+![My background image](Github_cover.png)
 
 Welcome on my Github page :bowtie:, I :heart: statistics and coding. You
 can find my website here
