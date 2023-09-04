@@ -3,10 +3,7 @@ Oswaldo Gressani
 
 <!-- Background image -->
 
-<figure>
-<img src="Github_cover.png" alt="My background image" />
-<figcaption aria-hidden="true">My background image</figcaption>
-</figure>
+![](CloudsNight.jpg)
 
 Welcome on my GitHub page :bowtie:, I :heart: statistics and coding. You
 can find my website here
